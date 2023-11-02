@@ -6,7 +6,7 @@ public class Main {
      */
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-
+        System.out.println("selamat datang");
         System.out.println("Masukkan panjang sisi segilima: ");
         double sisi = input.nextDouble();
 
